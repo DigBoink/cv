@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(88, 182, 182);
+}
+hr{
+    width: 7%;
+    background-color: rgba(0, 0, 128, 0);
+    border-style: dotted none none;
+    border-width: 3px;
+    border-color: rgb(69, 73, 65);
+   }
+h1{
+    color: deeppink;
+}
